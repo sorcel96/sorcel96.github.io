@@ -1,0 +1,69 @@
+body {
+  background-color: aliceblue;
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 100px;
+  margin-right: 100px;
+  position: relative;
+}
+
+a {
+  color: plum;
+}
+a:hover {
+  color: lightpink;
+}
+
+h1 {
+  font-family: 'Ubuntu', serif;
+  text-align: center;
+
+}
+
+.white {
+  background-color: white;
+  width: 1000px;
+  padding: 50px;
+}
+
+.text {
+  text-align: left;
+  margin-right: 100px;
+}
+
+.interest {
+  text-align: right;
+  margin-left: 200px;
+  position: relative;
+  top: 50px;
+}
+
+.list {
+  text-align: center;
+  padding-bottom: : 30px;
+  padding-top: 20px;
+}
+
+#right-side {
+  border-style: ridge;
+  border-width: medium;
+  border-color: plum;
+  position: relative;
+  top: -4px;
+  left: 600px;
+}
+
+#left-side {
+  border-style: ridge;
+  border-width: medium;
+  border-color: plum;
+  position: relative;
+  top: -50px;
+}
+
+.Interest-Header {
+  text-align: right;
+}
+
+.ambition {
+  text-align: center;
+}
